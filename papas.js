@@ -1,1 +1,2 @@
-console.log(papas);
+console.log('papas');
+console.log('pure de papas');
